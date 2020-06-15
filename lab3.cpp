@@ -435,7 +435,7 @@ int lab3_init() {
 	CloseHandle(semaphore_c1);
 	CloseHandle(semaphore_d1);
 	CloseHandle(semaphore_e1);
-	CloseHandle(semaphore_f);
+	CloseHandle(semaphore_f); 
 	CloseHandle(semaphore_h);
 	CloseHandle(semaphore_g);
 	CloseHandle(semaphore_k);
